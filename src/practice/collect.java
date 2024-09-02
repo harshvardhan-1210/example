@@ -11,6 +11,7 @@ import java.util.Map;
 public class collect {
 
 	public static void main(String[] args) {
+		//added comment line for commit
 		
 		ArrayList al=new ArrayList();
 		al.add(56);
